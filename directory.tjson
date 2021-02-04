@@ -1,0 +1,6 @@
+ | folder1   
+ | | folder2
+ | | |-file1
+ | |-file2
+ 
+ | folder3
